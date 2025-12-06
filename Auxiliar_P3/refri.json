@@ -1,0 +1,12 @@
+[
+  {
+    "nombre": "Queso",
+    "fechaVencimiento": "10/01/2026",
+    "cantidad": 5
+  },
+  {
+    "nombre": "Tomate",
+    "fechaVencimiento": "30/11/2025",
+    "cantidad": 4
+  }
+]

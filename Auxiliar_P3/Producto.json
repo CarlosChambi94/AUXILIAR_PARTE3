@@ -1,0 +1,17 @@
+[
+  {
+    "codigo": 12,
+    "nombre": "Pelota",
+    "precio": 100.0
+  },
+  {
+    "codigo": 123,
+    "nombre": "Folder",
+    "precio": 15.0
+  },
+  {
+    "codigo": 124,
+    "nombre": "Audifono",
+    "precio": 25.0
+  }
+]

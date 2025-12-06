@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Fabri",
+    "carnet": 1234,
+    "salario": 1000.0
+  },
+  {
+    "nombre": "Leo",
+    "carnet": 1235,
+    "salario": 250.0
+  },
+  {
+    "nombre": "Juan",
+    "carnet": 123,
+    "salario": 80.0
+  }
+]

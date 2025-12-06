@@ -1,0 +1,96 @@
+[
+  {
+    "id": 1,
+    "nombre": "Safari",
+    "nroAnimales": 0,
+    "animales": [
+      {
+        "especie": "Felino",
+        "nombre": "Tigre",
+        "cantidad": 4
+      },
+      {
+        "especie": "Reptil",
+        "nombre": "Cocodrilo",
+        "cantidad": 3
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Amazónico",
+    "nroAnimales": 3,
+    "animales": [
+      {
+        "especie": "Ave",
+        "nombre": "Guacamayo",
+        "cantidad": 10
+      },
+      {
+        "especie": "Felino",
+        "nombre": "Tigre",
+        "cantidad": 4
+      },
+      {
+        "especie": "Reptil",
+        "nombre": "Cocodrilo",
+        "cantidad": 3
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+]

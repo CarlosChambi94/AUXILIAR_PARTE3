@@ -1,0 +1,13 @@
+[
+  {
+    "materia": "Programación",
+    "notaFinal": 96,
+    "estudiante": {
+      "nombre": "María",
+      "paterno": "Suarez",
+      "materno": "Gomez",
+      "edad": 19,
+      "ru": 103
+    }
+  }
+]

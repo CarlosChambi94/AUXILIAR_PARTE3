@@ -1,0 +1,29 @@
+[
+  {
+    "edad": 5,
+    "peso": "normal",
+    "talla": "110",
+    "nombre": "Luis",
+    "apellidoPaterno": "Perez",
+    "apellidoMaterno": "Mamani",
+    "ci": 123
+  },
+  {
+    "edad": 8,
+    "peso": "alto",
+    "talla": "120",
+    "nombre": "Ana",
+    "apellidoPaterno": "Quispe",
+    "apellidoMaterno": "Lopez",
+    "ci": 456
+  },
+  {
+    "edad": 3,
+    "peso": "bajo",
+    "talla": "130",
+    "nombre": "Mario",
+    "apellidoPaterno": "Choque",
+    "apellidoMaterno": "Vera",
+    "ci": 789
+  }
+]
